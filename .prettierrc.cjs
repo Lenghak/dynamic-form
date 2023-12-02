@@ -18,6 +18,7 @@ module.exports = {
     "^@/app/(.*)$",
     "^@/modules/(.*)$",
     "^@/common/components/(.*)$",
+    "^@/common/constants/(.*)$",
     "^@/common/hooks/(.*)$",
     "^@/common/lib/(.*)$",
     "<THIRD_PARTY_MODULES>",
