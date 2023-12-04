@@ -4,7 +4,7 @@ export const data = {
       type: "text",
       label: "First Name",
       placeholder: "",
-      max: 100,
+      // max: 100,
       event_on: [
         {
           on: "",
@@ -18,7 +18,7 @@ export const data = {
       type: "text",
       label: "Last Name",
       placeholder: "",
-      max: 100,
+      // max: 100,
       event_on: [
         {
           on: "",
@@ -32,7 +32,7 @@ export const data = {
       type: "select",
       label: "Salutation",
       placeholder: "",
-      max: 100,
+      // max: 100,
       event_on: [
         {
           on: "",
@@ -46,7 +46,7 @@ export const data = {
       type: "select",
       label: "Gender",
       placeholder: "",
-      max: 100,
+      // max: 100,
       event_on: [
         {
           on: "",
@@ -60,7 +60,7 @@ export const data = {
       type: "date",
       label: "Date of Birth",
       placeholder: "",
-      max: 100,
+      // max: 100,
       event_on: [
         {
           on: "",
@@ -74,7 +74,7 @@ export const data = {
       type: "select",
       label: "Country",
       placeholder: "",
-      max: 100,
+      // max: 100,
       event_on: [
         {
           on: "",
@@ -88,7 +88,7 @@ export const data = {
       type: "select",
       label: "Province",
       placeholder: "",
-      max: 100,
+      // max: 100,
       event_on: [
         {
           on: "",
@@ -102,7 +102,7 @@ export const data = {
       type: "select",
       label: "District",
       placeholder: "",
-      max: 100,
+      // max: 100,
       event_on: [
         {
           on: "",
@@ -116,7 +116,7 @@ export const data = {
       type: "select",
       label: "Commune",
       placeholder: "",
-      max: 100,
+      // max: 100,
       event_on: [
         {
           on: "",
@@ -130,7 +130,7 @@ export const data = {
       type: "select",
       label: "Village",
       placeholder: "",
-      max: 100,
+      // max: 100,
       event_on: [
         {
           on: "",
@@ -149,7 +149,7 @@ export const data = {
           type: "select",
           label: "Country",
           placeholder: "",
-          max: 100,
+          // max: 100,
           event_on: [
             {
               on: "",
@@ -163,7 +163,7 @@ export const data = {
           type: "select",
           label: "Province",
           placeholder: "",
-          max: 100,
+          // max: 100,
           event_on: [
             {
               on: "",
@@ -177,7 +177,7 @@ export const data = {
           type: "select",
           label: "District",
           placeholder: "",
-          max: 100,
+          // max: 100,
           event_on: [
             {
               on: "",
@@ -191,7 +191,7 @@ export const data = {
           type: "select",
           label: "Commune",
           placeholder: "",
-          max: 100,
+          // max: 100,
           event_on: [
             {
               on: "",
@@ -205,7 +205,7 @@ export const data = {
           type: "select",
           label: "Village",
           placeholder: "",
-          max: 100,
+          // max: 100,
           event_on: [
             {
               on: "",
@@ -234,7 +234,7 @@ export const data = {
           type: "text",
           label: "ID Number",
           placeholder: "",
-          max: 100,
+          // max: 100,
           event_on: [
             {
               on: "",
@@ -248,7 +248,7 @@ export const data = {
           type: "select",
           label: "ID Type",
           placeholder: "",
-          max: 100,
+          // max: 100,
           event_on: [
             {
               on: "",
